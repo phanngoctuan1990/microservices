@@ -17,3 +17,11 @@ Microservices with Lumen + Laravel + Nginx + Mysql
 ## Setup
 
 `docker-compose build && docker-compose up -d`
+
+### Add host name
+`sudo vim /etc/host`
+
+```
+127.0.0.1 dispenser.test
+127.0.0.1 curator.test
+```
