@@ -25,3 +25,4 @@ Microservices with Lumen + Laravel + Nginx + Mysql
 127.0.0.1 dispenser.test
 127.0.0.1 curator.test
 ```
+ShadySmaoui©2020 licensed under the MIT license.
